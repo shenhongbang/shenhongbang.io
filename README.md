@@ -1,5 +1,20 @@
 # 测试包下载
 
-|自研包|线上包|
+
+## 线上包
+
+|线上包|环境|
 |---|---|
-    | [1.1000.5.10](https://wwe.lanzous.com/i2XXTgztt4d)
+[1.1000.5.10](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.10.exe) | 线上
+
+
+
+
+## 自研包
+
+|自研包|环境|
+|---|---|
+[1.1000.4.768](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.4.768.exe) | 测试
+
+
+
