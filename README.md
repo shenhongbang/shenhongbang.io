@@ -22,4 +22,4 @@
 [1.1000.4.768](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.4.768.exe) | 测试 |
 
 
-
+**注：** 修改 *安装目录/config/app_localconfig.json* 文件内的 `loginType` 字段可修改登陆方式：0-验证码登陆  1-密码登陆
