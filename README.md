@@ -5,6 +5,7 @@
 
 |线上包|环境|备注|
 |---|---|---|
+[1.1000.5.14](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.14.exe) | 测试 | 暴露人脸入口
 [1.1000.5.13](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.13.exe) | 线上 | 暴露人脸入口，播放记录UI完整展示
 [1.1000.5.12](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.12.exe) | 线上 | 屏蔽人脸入口
 [1.1000.5.11](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.11.exe) | 线上 | 改名提示、超清套餐查询
