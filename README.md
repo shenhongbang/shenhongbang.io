@@ -3,7 +3,7 @@
 
 ## 视洞包
 
-|线上包|环境|备注|
+|版本号|环境|备注|
 |---|---|---|
 [1.1000.5.14](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.14.exe) | 测试 | 暴露人脸入口
 [1.1000.5.13](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.13.exe) | 线上 | 暴露人脸入口，播放记录UI完整展示
@@ -17,7 +17,7 @@
 
 ## 自研包
 
-|自研包|环境|备注|
+|版本号|环境|备注|
 |---|---|---|
 [1.1000.4.771](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.4.771.exe) | 测试 | 修复 ZHJTAF-5148
 [1.1000.4.770](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.4.770.exe) | 测试 | 可测试声音相关
