@@ -1,11 +1,18 @@
 # 测试包下载
 
 
-## 守护平台包
+## 合并代码包
 
 |版本号|环境|备注|
 |---|---|---|
 [1.1000.5.20](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.20.exe) | 线上 | 合并代码的包
+
+<br/>
+
+## 守护平台包
+
+|版本号|环境|备注|
+|---|---|---|
 [1.1000.5.19](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.19.exe) | 线上 |
 [1.1000.5.18](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.18.exe) | 测试 | 修复bug
 [1.1000.5.17](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.17.exe) | 线上 | 大屏链接添加 deviceId 字段
