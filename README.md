@@ -5,7 +5,7 @@
 
 |版本号|环境|备注|
 |---|---|---|
-<!-- [1.1000.5.20](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.20.exe) | 线上 | 合并代码，1.0.4相关需求 -->
+[1.1000.5.20](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.20.exe) | 线上 | 合并代码，1.0.4相关需求
 
 <br/>
 
