@@ -5,6 +5,7 @@
 
 |版本号|环境|备注|
 |---|---|---|
+[1.1000.5.24](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.24.exe) | 测试 | app窗口最大设置，完善千里眼相关
 [1.1000.5.23](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.23.exe) | 测试 |
 [1.1000.5.20](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.20.exe) | 线上 | 合并代码，1.0.4相关需求
 
