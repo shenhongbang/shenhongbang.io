@@ -5,6 +5,7 @@
 
 |版本号|环境|备注|
 |---|---|---|
+[1.1000.5.28](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.28.exe) | 测试 | 修复bug
 [1.1000.5.27](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.27.exe) | 测试 | 更新播放器sdk
 [1.1000.5.26](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.26.exe) | 测试 | 云广播链接修改，回放全屏UI调整
 [1.1000.5.25](http://s3.cn-northwest-1.amazonaws.com.cn/hjkhdev/oms/test/pc/移动看家管理版-1.1000.5.25.exe) | 测试 |
