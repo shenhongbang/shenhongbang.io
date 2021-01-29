@@ -29,4 +29,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls
-          cp 11.text README.MD
+          cp -i 11.text README.MD
